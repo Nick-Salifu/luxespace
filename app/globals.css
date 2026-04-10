@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Cal+Sans&family=Golos+Text:wght@400..900&display=swap');
+
 @import "tailwindcss";
 
-
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "remixicon/fonts/remixicon.css";
 
